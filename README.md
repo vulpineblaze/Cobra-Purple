@@ -1,10 +1,5 @@
-# Cobra-Purple
-phaser.io example game 
-
-
-
-# Project Name
-> Here goes your awesome project description!
+# Cobra Purple
+> Is a phaser example game.
 
 ## Table of contents
 * [General info](#general-info)
@@ -19,48 +14,34 @@ phaser.io example game
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-Put possible docs / coda link here.
+Cobra Purple is an example of a Phaser game, in which the user can use WASD to move the purple character and press the space bar to use their weapon.  Collecting stars increases the score.  This game is for testing and code purposes only, with assets to be used later.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![screenshot](https://github.com/vulpineblaze/Cobra-Purple/blob/master/www/img/screenshotCP.PNG)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Phaser v2.5.0
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+http://fusionbombsderp.com/cobra_purple/
 
 ### Requirements
-If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+* Phaser v2.5.0, linked through CDN.
 
 ### Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Load via browser and play per instructions!
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Use WASD to move the character
+* Press space to use weapon
+* Collect stars for points towards score
+* Green blocks are obstacles that can't be passed through
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+Project is: _no longer continue_ fulfilled test purposes
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+This test game was inspired by The Legend of Zelda and other RPG's
 
 ## Contact
 Created by [@vulpineblaze](https://github.com/vulpineblaze) - feel free to contact me!
